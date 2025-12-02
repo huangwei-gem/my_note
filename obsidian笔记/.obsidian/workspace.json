@@ -31,7 +31,8 @@
               "title": "webpack图解.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +280,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d7b335fe334a87de",
+  "active": "eb4f0757af78304a",
   "lastOpenFiles": [
-    "Excalidraw/webpack图解.excalidraw.md",
     "Excalidraw/git流程图解.excalidraw.md",
+    "Tags/影刀学习/影刀学习.md",
+    "Tags/影刀学习",
+    "Tags/人情世故/人情世故.md",
+    "Tags/人情世故",
+    "Tags/公关/公关.md",
+    "Tags/公关",
+    "Tags/商业/商业.md",
+    "Tags/商业",
+    "Excalidraw/webpack图解.excalidraw.md",
     "Excalidraw/从商业的角度分析大祥哥被骗.md",
     "Tags/从商业的角度分析大祥哥被骗.md",
     "desktop-tutorial/README.md",
@@ -308,23 +317,15 @@
     "微信消息/2025-04-12-星期六.md",
     "微信消息/2025-04-12.md",
     "微信消息/日期@2025-04-12-星期六n.md",
-    "Tags/RAG科普/RAG科普.excalidraw.md",
-    "MDFriday/Untitled Friday Site 1.md",
-    "Tags/女人要嫁给有钱人.md",
-    "weread/公众号/肥猫说财.md",
     "微信消息",
     "Tags/RAG科普",
     "img_data/Pasted image 20250412103804.png",
     "未命名.canvas",
-    "excalidraw 25-04-12 09.53.17.ex",
-    "MDFriday",
-    "excalidraw 25-04-12 09.46.57.ex",
     "img_data/Pasted image 20250412002124.png",
     "img_data/Pasted image 20250412002047.png",
     "img_data/Pasted image 20250411234739.png",
     "img_data/Pasted image 20250411234309.png",
     "Tags/闯哥/Untitled.canvas",
-    "Tags/闯哥",
     "img_data/头图.jpg",
     "img_data/剪贴板图片.jpg",
     "img_data/Pasted Image 20250410002317_994.png",
