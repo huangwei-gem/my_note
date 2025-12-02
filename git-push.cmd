@@ -1,0 +1,58 @@
+@echo off
+chcp 65001 >nul
+echo =========================================
+echo          Git一键提交脚本
+echo =========================================
+echo.
+
+REM 拉取最新代码
+echo [1/4] 正在拉取最新代码...
+git pull
+if %errorlevel% neq 0 (
+    echo 拉取失败，请检查网络或权限！
+    pause
+    exit /b 1
+)
+echo 拉取成功！
+echo.
+
+REM 添加所有更改
+echo [2/4] 正在添加所有更改...
+git add .
+if %errorlevel% neq 0 (
+    echo 添加失败！
+    pause
+    exit /b 1
+)
+echo 添加成功！
+echo.
+
+REM 获取当前日期和时间，作为默认提交信息
+set "datetime=%date:~0,4%%date:~5,2%%date:~8,2%-%time:~0,2%%time:~3,2%%time:~6,2%"
+set "datetime=%datetime: =0%"
+
+REM 提示用户输入提交信息
+echo [3/4] 请输入提交信息（默认：自动提交-%datetime%）：
+set /p commit_msg=
+if "%commit_msg%"=="" set commit_msg=自动提交-%datetime%
+
+REM 提交更改
+echo 正在提交更改，提交信息：%commit_msg%...
+git commit -m "%commit_msg%"
+if %errorlevel% neq 0 (
+    echo 提交失败！可能没有需要提交的更改。
+    pause
+    exit /b 1
+)
+echo 提交成功！
+echo.
+
+REM 推送代码到远程仓库
+echo [4/4] 正在推送代码到远程仓库...
+git push
+echo 推送成功！
+echo.
+echo =========================================
+echo          提交完成！
+echo =========================================
+pause
