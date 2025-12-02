@@ -13,10 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-02 22.20.18.excalidraw.md"
+                "file": "Excalidraw/git流程图解.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-02 22.20.18.excalidraw"
+              "title": "git流程图解.excalidraw"
+            }
+          },
+          {
+            "id": "eb4f0757af78304a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/webpack图解.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "webpack图解.excalidraw"
             }
           }
         ]
@@ -269,7 +281,11 @@
   },
   "active": "d7b335fe334a87de",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-12-02 22.20.18.excalidraw.md",
+    "Excalidraw/webpack图解.excalidraw.md",
+    "Excalidraw/git流程图解.excalidraw.md",
+    "Excalidraw/从商业的角度分析大祥哥被骗.md",
+    "Tags/从商业的角度分析大祥哥被骗.md",
+    "desktop-tutorial/README.md",
     "日记/2025-04-13.md",
     "Tags/大刘说实体.md",
     "日记/2025-12-02.md",
@@ -296,11 +312,7 @@
     "MDFriday/Untitled Friday Site 1.md",
     "Tags/女人要嫁给有钱人.md",
     "weread/公众号/肥猫说财.md",
-    "微信消息/微信消息.md",
     "微信消息",
-    "Tags/从商业的角度分析大祥哥被骗.md",
-    "Tags/RAG科普/RAG代码示例.md",
-    "Tags/Tags.md",
     "Tags/RAG科普",
     "img_data/Pasted image 20250412103804.png",
     "未命名.canvas",
