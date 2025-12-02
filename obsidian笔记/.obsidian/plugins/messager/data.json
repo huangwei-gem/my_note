@@ -1,0 +1,11 @@
+{
+  "apikey": "08bcf370d5d3144eceb030584a6d3398",
+  "savedFolder": "微信消息",
+  "filenameRule": "fixed",
+  "conflictFileRule": "",
+  "refreshInterval": "",
+  "fixedTitle": "{y-m-d-W}",
+  "insertPosition": "ending",
+  "contentSuffix": "",
+  "contentPrefix": "\\n  日期@{y-m-d-W}   \\n"
+}

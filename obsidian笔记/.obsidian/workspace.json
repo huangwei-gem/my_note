@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "4023a07f40a7362b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6383b0dd5f7700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b335fe334a87de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-02 22.20.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-02 22.20.18.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f091d6a46f53757",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68b0a26f118d7b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341f83e5d59c7dbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "49027b0ef88ecaf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b5f230f5e672702f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "a190cf4664bee178",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8c052ef45ed1acc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26352c74b3095e29",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "a79b8067895bbda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a58c045b456a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d97bbfcac3aafd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tags/大刘说实体.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "大刘说实体 的反向链接列表"
+            }
+          },
+          {
+            "id": "84cb932673b0eae2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tags/大刘说实体.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "大刘说实体 的出链列表"
+            }
+          },
+          {
+            "id": "4a935c67314dacc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "87aa27c3b65605e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-08 16.57.41.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Drawing 2025-04-08 16.57.41.excalidraw 的大纲"
+            }
+          },
+          {
+            "id": "3272cb3e7cd8d632",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "32912435603808a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "4da17fdcd6d359c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-09-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-19"
+            }
+          },
+          {
+            "id": "5f46b1679a822248",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "d20b8319f8e98f50",
+            "type": "leaf",
+            "state": {
+              "type": "Friday",
+              "state": {},
+              "icon": "dice-5",
+              "title": "Friday Service"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "i18n:I18N": false,
+      "pkmer:打开 Pkmer 插件市场": false,
+      "mdfriday:Create new Friday note": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "d7b335fe334a87de",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-02 22.20.18.excalidraw.md",
+    "日记/2025-04-13.md",
+    "Tags/大刘说实体.md",
+    "日记/2025-12-02.md",
+    "img_data/Pasted image 20250413141814.png",
+    "Tags/闯哥/随笔.md",
+    "资源/cedict_1_0_ts_utf-8_mdbg/cedict_ts.u8",
+    "资源/cedict_1_0_ts_utf-8_mdbg",
+    "资源/cedict_1_0_ts_utf-8_mdbg.zip",
+    "Tags/源头哥拆局/学会布流量的局.md",
+    "weread/公众号/南风窗.md",
+    "Tags/如何分析一个行业，以咖啡行业为主.md",
+    "Tags/闯哥/未命名.md",
+    "Tags/闯哥/闯哥.md",
+    "Tags/源头哥拆局/普通人的出路在哪里？.md",
+    "Tags/水泡球/大学生教育的困境是如何形成的.md",
+    "Tags/小白要理解商业，从这个10个问题开始.md",
+    "Tags/水泡球/水泡球.md",
+    "Tags/水泡球",
+    "Tags/使用AI工具.md",
+    "微信消息/2025-04-12-星期六.md",
+    "微信消息/2025-04-12.md",
+    "微信消息/日期@2025-04-12-星期六n.md",
+    "Tags/RAG科普/RAG科普.excalidraw.md",
+    "MDFriday/Untitled Friday Site 1.md",
+    "Tags/女人要嫁给有钱人.md",
+    "weread/公众号/肥猫说财.md",
+    "微信消息/微信消息.md",
+    "微信消息",
+    "Tags/从商业的角度分析大祥哥被骗.md",
+    "Tags/RAG科普/RAG代码示例.md",
+    "Tags/Tags.md",
+    "Tags/RAG科普",
+    "img_data/Pasted image 20250412103804.png",
+    "未命名.canvas",
+    "excalidraw 25-04-12 09.53.17.ex",
+    "MDFriday",
+    "excalidraw 25-04-12 09.46.57.ex",
+    "img_data/Pasted image 20250412002124.png",
+    "img_data/Pasted image 20250412002047.png",
+    "img_data/Pasted image 20250411234739.png",
+    "img_data/Pasted image 20250411234309.png",
+    "Tags/闯哥/Untitled.canvas",
+    "Tags/闯哥",
+    "img_data/头图.jpg",
+    "img_data/剪贴板图片.jpg",
+    "img_data/Pasted Image 20250410002317_994.png",
+    "img_data/Pasted Image 20250409091502_334.png",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "//Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

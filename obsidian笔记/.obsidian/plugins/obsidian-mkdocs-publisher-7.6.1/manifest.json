@@ -1,0 +1,12 @@
+{
+    "id": "obsidian-mkdocs-publisher",
+    "name": "Enveloppe",
+    "version": "7.6.1",
+    "minAppVersion": "0.15.4",
+    "description": "Envelope 帮助你将笔记免费发布到预配置的 GitHub 仓库，还有更多功能！",
+    "author": "Mara-Li",
+    "authorUrl": "https://github.com/enveloppe",
+    "fundingUrl": "https://ko-fi.com/mara__li",
+    "isDesktopOnly": false,
+    "helpUrl": "https://enveloppe.github.io/"
+}

@@ -1,0 +1,15 @@
+{
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#ffb6c1",
+  "enabledCssSnippets": [
+    "【AnuPpuccin】扩展的颜色方案",
+    "【AnuPpuccin】custom-rainbow-colors",
+    "【AnuPpuccin】浮动搜索栏",
+    "【AnuPpuccin】its-frontmatter",
+    "【AnuPpuccin】minimal-cards",
+    "【AnuPpuccin】notion-cards"
+  ],
+  "theme": "obsidian"
+}
