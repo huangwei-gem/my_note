@@ -1,4 +1,6 @@
 @echo off
+chcp 65001 >nul
+
 REM Git一键提交脚本 - 批处理版本
 REM 使用方法: 双击运行或命令行运行: git_auto_commit.bat
 
@@ -26,18 +28,17 @@ if errorlevel 1 (
 REM 禁用嵌入仓库警告
 git config advice.addEmbeddedRepo false
 
-REM 添加所有文件
-echo 添加所有文件...
-
-REM 特殊处理obsidian笔记目录 - 先进入目录提交，再回到主目录
-if exist "obsidian笔记" (
-    echo 处理obsidian笔记目录...
-    cd "obsidian笔记"
-    git add .
-    git commit -m "Update obsidian notes" 2>nul
-    cd ..
+REM 拉取最新代码
+echo 拉取最新代码...
+git pull
+if errorlevel 1 (
+    echo 拉取失败，请检查网络或权限！
+    pause
+    exit /b 1
 )
 
+REM 添加所有文件
+echo 添加所有文件...
 git add -A
 
 REM 检查是否有更改
@@ -53,8 +54,8 @@ echo Git状态:
 git status --short
 
 REM 提交更改
-set /p commitMsg=请输入提交信息(默认: Auto commit: Update notes): 
-if "%commitMsg%"=="" set commitMsg=Auto commit: Update notes
+set /p commitMsg=请输入提交信息(默认: Auto commit): 
+if "%commitMsg%"=="" set commitMsg=Auto commit
 
 echo 提交更改: %commitMsg%
 git commit -m "%commitMsg%"
