@@ -28,6 +28,16 @@ git config advice.addEmbeddedRepo false
 
 REM 添加所有文件
 echo 添加所有文件...
+
+REM 特殊处理obsidian笔记目录 - 先进入目录提交，再回到主目录
+if exist "obsidian笔记" (
+    echo 处理obsidian笔记目录...
+    cd "obsidian笔记"
+    git add .
+    git commit -m "Update obsidian notes" 2>nul
+    cd ..
+)
+
 git add -A
 
 REM 检查是否有更改

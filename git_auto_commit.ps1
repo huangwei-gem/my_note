@@ -43,6 +43,17 @@ git config advice.addEmbeddedRepo false
 
 # 添加所有文件
 Write-Host "添加所有文件..." -ForegroundColor Yellow
+
+# 特殊处理obsidian笔记目录 - 先进入目录提交，再回到主目录
+if (Test-Path "obsidian笔记") {
+    Write-Host "处理obsidian笔记目录..." -ForegroundColor Cyan
+    Push-Location
+    Set-Location "obsidian笔记"
+    git add .
+    git commit -m "Update obsidian notes" 2>$null
+    Pop-Location
+}
+
 git add -A
 
 # 检查是否有更改
