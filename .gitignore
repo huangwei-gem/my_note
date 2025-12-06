@@ -1,35 +1,7 @@
-# Obsidian specific
-.obsidian/workspace.json
-.obsidian/graph.json
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/community-plugins.json
-.obsidian/core-plugins.json
-.obsidian/core-plugins-migration.json
-.obsidian/hotkeys.json
-.obsidian/page-preview.json
-.obsidian/daily-notes.json
-.obsidian/templates.json
-.obsidian/query.json
-.obsidian/bookmarks.json
-.obsidian/types.json
-.obsidian/plugins/
-
-# Trae specific
-.trae/
-
 # System specific
-.trash/
 .DS_Store
 Thumbs.db
 
 # Temporary files
 *.tmp
 *.temp
-*.log
-
-# Images cache
-.obsidian/cache/
-
-# MakeMD specific
-.makemd/
