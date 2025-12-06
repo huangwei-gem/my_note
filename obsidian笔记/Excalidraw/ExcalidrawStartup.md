@@ -1,5 +1,5 @@
 /*
-#exclude
+[[exclude]]
 ```js*/
 /**
  * If set, this callback is triggered when the user closes an Excalidraw view.

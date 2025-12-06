@@ -1,13 +1,12 @@
 ---
-UID: 20230523134715 
-aliases: 
-tags: 
-source: 
-cssclass:  "flatBlue"
+UID: 20230523134715
+aliases:
+tags:
+source:
+cssclasses:
+  - flatBlue
 created date: 2023-05-23 周二 13:47:15
 modification date: 2023-05-23 周二 13:47:14
-
-
 ---
 
 ## Callout(提示框)
@@ -157,7 +156,7 @@ for (x < 12) {x++}
 
 ## 标签
 
-#test1 #test2
+[[test1]] [[test2]]
 
 # 排版设计
 

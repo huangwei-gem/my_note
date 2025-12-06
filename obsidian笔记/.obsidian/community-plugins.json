@@ -11,9 +11,7 @@
   "recent-files-obsidian",
   "obsidian-hover-editor",
   "surfing",
-  "quickadd",
   "mdfriday",
-  "obsidian-weread-plugin",
   "obsidian-auto-link-title",
   "obsidian-banners",
   "excalidraw-cn",
@@ -23,5 +21,12 @@
   "messager",
   "execute-code",
   "various-complements",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "pkmer",
+  "vscode-editor",
+  "obsidian-git",
+  "dataview",
+  "table-editor-obsidian",
+  "quickadd",
+  "obsidian-icon-folder"
 ]
