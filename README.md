@@ -1,12 +1,13 @@
-# 我的笔记仓库
+# 📚 我的笔记仓库
 
-这是一个用于存储个人笔记的Git仓库，使用Obsidian进行本地管理。
+这是一个个人知识管理和笔记仓库，使用 Obsidian 作为主要的笔记工具，并包含自动化的 Git 提交脚本。
 
-## 仓库信息
+## 🏗️ 仓库信息
 
-- 远程仓库地址：https://github.com/huangwei-gem/my_note.git
-- 本地管理工具：Obsidian
-- 主要内容：个人笔记、学习记录、思考总结
+- **远程仓库地址**：https://github.com/huangwei-gem/obsidian_data.git
+- **本地管理工具**：Obsidian + 40+ 增强插件
+- **自动提交脚本**：中文增强版 Git 自动化脚本
+- **主要内容**：个人笔记、学习记录、思考总结、手绘图解
 
 ## 如何使用
 
