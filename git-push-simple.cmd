@@ -1,9 +1,8 @@
 @echo off
-chcp 65001 >nul
 
 echo.
 echo =====================================
-echo     Git 自动提交脚本 (中文增强版)
+echo     Git 自动提交脚本 (简化版)
 echo =====================================
 echo.
 
@@ -75,7 +74,7 @@ set "datetime=%datetime: =0%"
 REM 输入提交信息
 echo [步骤 3/4] 请输入提交信息（默认：自动提交-%datetime%）：
 set /p commit_msg=
-if "%commit_msg%"=="" set commit_msg=Auto commit-%datetime%
+if "%commit_msg%"=="" set commit_msg=自动提交-%datetime%
 
 REM 提交更改
 echo 正在提交更改...
@@ -99,15 +98,15 @@ if errorlevel 1 (
 echo 推送成功！
 echo.
 echo =====================================
-echo        提交完成！✅
+echo        提交完成！
 echo =====================================
-echo 📍 远程仓库：https://github.com/huangwei-gem/obsidian_data.git
-echo 📋 分支：master
+echo 远程仓库：https://github.com/huangwei-gem/obsidian_data.git
+echo 分支：master
 echo.
 
 REM 显示最近的提交记录
-echo 📚 最近的提交记录：
+echo 最近的提交记录：
 git log --oneline -3
 echo.
-echo 💡 提示：所有操作已完成，按任意键退出...
+echo 提示：所有操作已完成，按任意键退出...
 pause
