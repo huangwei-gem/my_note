@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "http://kimi.moonshot.cn",
+      "displayName": "kimi",
+      "icon": "moo",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
