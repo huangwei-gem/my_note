@@ -39,11 +39,19 @@
   "expandedSpaces": [
     "/",
     "//周记",
+<<<<<<< HEAD
     "//obsidian_data",
     "//desktop-tutorial",
     "//Excalidraw",
     "//Tags",
     "//Tags/Tags/商业"
+=======
+    "//Tags/Tags/闯哥",
+    "//obsidian_data",
+    "//desktop-tutorial",
+    "//Excalidraw",
+    "//Tags"
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

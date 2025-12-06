@@ -1,6 +1,10 @@
 [
   "calendar",
   "obsidian-checklist-plugin",
+<<<<<<< HEAD
+=======
+  "pkmer",
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   "templater-obsidian",
   "make-md",
   "obsidian-style-settings",
@@ -11,7 +15,13 @@
   "recent-files-obsidian",
   "obsidian-hover-editor",
   "surfing",
+<<<<<<< HEAD
   "mdfriday",
+=======
+  "quickadd",
+  "mdfriday",
+  "obsidian-weread-plugin",
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   "obsidian-auto-link-title",
   "obsidian-banners",
   "excalidraw-cn",
@@ -21,6 +31,7 @@
   "messager",
   "execute-code",
   "various-complements",
+<<<<<<< HEAD
   "obsidian-tasks-plugin",
   "pkmer",
   "vscode-editor",
@@ -28,4 +39,7 @@
   "table-editor-obsidian",
   "quickadd",
   "obsidian-icon-folder"
+=======
+  "obsidian-tasks-plugin"
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
 ]

@@ -54,8 +54,12 @@
     justify-content: center;
 }
 
+<<<<<<< HEAD
 .templater-prompt-div,
 .templater-multisuggester-div {
+=======
+.templater-prompt-div {
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     display: flex;
 }
 
@@ -64,8 +68,12 @@
     flex-grow: 1;
 }
 
+<<<<<<< HEAD
 .templater-prompt-input,
 .templater-multisuggester-input {
+=======
+.templater-prompt-input {
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     flex-grow: 1;
 }
 
@@ -84,10 +92,13 @@ textarea.templater-prompt-input:focus {
     border-color: var(--interactive-accent);
 }
 
+<<<<<<< HEAD
 .templater-multisuggester-list {
     margin: 1.5em 0;
 }
 
+=======
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
 .cm-s-obsidian .templater-command-bg {
     left: 0px;
     right: 0px;

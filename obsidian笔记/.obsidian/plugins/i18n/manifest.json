@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "id": "i18n",
     "name": "I18N",
@@ -8,3 +9,6 @@
     "authorUrl": "https://github.com/0011000000110010/",
     "isDesktopOnly": true
 }
+=======
+{"id":"i18n","name":"I18N","version":"1.6.2","minAppVersion":"1.5.8","description":"专为Obsidian打造的插件国际化工具，助力用户轻松跨越语言障碍，实现插件界面的无缝汉化。","author":"zero","authorUrl":"https://github.com/0011000000110010/","isDesktopOnly":true}
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984

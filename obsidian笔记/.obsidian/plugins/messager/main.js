@@ -66,7 +66,11 @@ var Helper = class {
       statusBarItemEl.detach();
     }, 3e3);
   }
+<<<<<<< HEAD
   // format data string
+=======
+  // format data string 
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   // lang: cn / en  created: unix timestamp in seconds
   formatDate(format, lang = "cn", created = 0) {
     let now;
@@ -88,26 +92,38 @@ var Helper = class {
       // 分钟
       "s": now.getSeconds(),
       // 秒
+<<<<<<< HEAD
       "w": now.getDay(),
       // 星期，0是星期日
       "n": this.getWeekNumber(now)
       // 第几周
+=======
+      "w": now.getDay()
+      // 星期，0是星期日
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     };
     const weekdays = {
       cn: ["\u65E5", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D"],
       en: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     };
     const pad = (value) => value.toString().padStart(2, "0");
+<<<<<<< HEAD
     return format.replace(/y|m|d|h|i|s|w|W|n/g, (match) => {
+=======
+    return format.replace(/y|m|d|h|i|s|w|W/g, (match) => {
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
       if (match === "w") {
         return lang === "cn" ? "\u5468" + weekdays.cn[tokens.w] : weekdays.en[tokens.w].slice(0, 3);
       }
       if (match === "W") {
         return lang === "cn" ? `\u661F\u671F${weekdays.cn[tokens.w]}` : weekdays.en[tokens.w];
       }
+<<<<<<< HEAD
       if (match === "n") {
         return `${tokens.n}`;
       }
+=======
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
       return pad(tokens[match]);
     });
   }
@@ -127,6 +143,7 @@ var Helper = class {
   now() {
     return Math.floor(Date.now() / 1e3);
   }
+<<<<<<< HEAD
   // get ISO week number for a given date
   getWeekNumber(date) {
     const target = new Date(date.valueOf());
@@ -151,6 +168,8 @@ var Helper = class {
     }
     return [];
   }
+=======
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
 };
 
 // src/lang.ts
@@ -184,9 +203,15 @@ var Lang = class {
     this.SUFFIX_PREFIX_USAGE = `
 Prefix/Suffix/Fixed title configuration usage:
 Supports date variables (must be enclosed in curly braces), prefix/suffix supports using \\n for new lines
+<<<<<<< HEAD
 {y-m-d h:i:s W w n} corresponds to year-month-day hour:minute:second Sunday Sun WeekNum
   For example:
   "date@{y-m-d-W-n}"
+=======
+{y-m-d h:i:s W w} corresponds to year-month-day hour:minute:second Sunday Sun
+  For example:
+  "date@{y-m-d-W}"
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   "{ymd@h:i w} \\n"
   "{y-m-d h:i:s} \\n --- \\n"
 `;
@@ -199,6 +224,7 @@ Supports date variables (must be enclosed in curly braces), prefix/suffix suppor
     this.ERROR = "Messager error:";
     this.API_ERROR = "Messager server response error:";
     this.API_USERERR = "API key not found, user not exist.";
+<<<<<<< HEAD
     this.CHOOSE_TEMPLATE = "Choose Template(Only first message will use)";
     this.CHOOSE_TEMPLATE_DESC = "Only first message of new file will use";
     this.LATEST_UPDATE = `
@@ -206,6 +232,13 @@ UpdateNotes:
     (v1.1.5@25-05-18): Fix Save Email's attach
     (v1.1.4@25-05-15): Save Email's attach
     (v1.1.3@25-05-13): Support template
+=======
+    this.LATEST_UPDATE = `
+UpdateNotes:
+    (v1.1.2@25-01-20): Fix bugs.
+    (v1.1.0@24-09-09): Fix bugs.
+    (v1.0.9@24-09-07): Support date variables for fixed title.
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
 `;
     let lang = window.localStorage.getItem("language");
     if (lang == "zh" || lang == "zh-cn" || lang == "zh-TW") {
@@ -241,7 +274,11 @@ UpdateNotes:
     this.SUFFIX_DESC = "\u652F\u6301\u65F6\u95F4\u6233\u53D8\u91CF\uFF0C\u5177\u4F53\u53C2\u8003\u4E0B\u65B9\u8BF4\u660E";
     this.SUFFIX_PREFIX_USAGE = `\u524D\u7F00/\u540E\u7F00/\u56FA\u5B9A\u6587\u4EF6\u540D \u65F6\u95F4\u6233\u53D8\u91CF\u7528\u6CD5\u8BF4\u660E\uFF1A 
 \u65E5\u671F\u53D8\u91CF(\u9700\u8981\u7528\u82B1\u62EC\u53F7\u62EC\u8D77\u6765)\uFF0C\u524D\u7F00/\u540E\u7F00\u652F\u6301\u7528 \\n \u6362\u884C(\u6587\u4EF6\u540D\u4E0D\u652F\u6301)
+<<<<<<< HEAD
 {y-m-d h:i:s W w n} \u5BF9\u5E94 \u5E74-\u6708-\u65E5 \u65F6:\u5206:\u79D2 \u661F\u671F\u516D(\u5927\u5199W) \u5468\u516D(\u5C0F\u5199w) \u7B2C\u51E0\u5468(n)
+=======
+{y-m-d h:i:s W w} \u5BF9\u5E94 \u5E74-\u6708-\u65E5 \u65F6:\u5206:\u79D2 \u661F\u671F\u516D(\u5927\u5199W) \u5468\u516D(\u5C0F\u5199w)
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   \u4F8B\u5982: 
   "\u65E5\u671F@{y-m-d-W}"
   "{ymd@h:i_w} \\n"
@@ -256,6 +293,7 @@ UpdateNotes:
     this.ERROR = "Messager \u9519\u8BEF:";
     this.API_ERROR = "Messager \u670D\u52A1\u5668\u9519\u8BEF:";
     this.API_USERERR = "\u7528\u6237\u4E0D\u5B58\u5728\u3002";
+<<<<<<< HEAD
     this.CHOOSE_TEMPLATE = "\u9009\u62E9\u8981\u4F7F\u7528\u7684\u6A21\u677F";
     this.CHOOSE_TEMPLATE_DESC = "\u540C\u4E00\u4E2A\u6587\u4EF6\u53EA\u6709\u9996\u6761\u4FE1\u606F\u4F1A\u4F7F\u7528\u6A21\u677F";
     this.LATEST_UPDATE = `
@@ -264,6 +302,13 @@ UpdateNotes:
 (v1.1.5@25-05-15): Fix Email\u591A\u4E2A\u9644\u4EF6\u5185\u5BB9\u4E0B\u8F7D
 (v1.1.4@25-05-15): Email\u9644\u4EF6\u5185\u5BB9\u652F\u6301\u4E0B\u8F7D
 (v1.1.3@25-05-13): \u652F\u6301\u6A21\u677F\u6D88\u606F\uFF1B\u652F\u6301Email\u5185\u5D4C\u56FE\u7247\u4E0B\u8F7D
+=======
+    this.LATEST_UPDATE = `
+\u66F4\u65B0\u8BB0\u5F55\uFF1A
+(v1.1.2@25-01-20): Fix bugs \u8BBE\u7F6E\u6807\u9898\u7684Bug 
+(v1.1.0@24-09-09): Fix bugs.
+(v1.0.9@24-09-07): \u56FA\u5B9A\u6807\u9898\u652F\u6301\u4F7F\u7528\u65F6\u95F4\u6233\u53D8\u91CF\u3002
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
 `;
   }
 };
@@ -341,9 +386,14 @@ var Note = class {
         }
         let content = msg["content"];
         if (this.judgeImageMessage(content)) {
+<<<<<<< HEAD
           content = await this.parseImageOnly(content);
         }
         content = await this.parseEmailContent(content);
+=======
+          content = await this.saveImage(this.plugin.settings, content);
+        }
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
         let title = msg["title"];
         if (title != null && title.length > 1) {
           title = this.filterTitle(title) + ".md";
@@ -361,7 +411,10 @@ var Note = class {
     if (title == null || title.length < 1) {
       title = this.getTitle(setting, note, created);
     }
+<<<<<<< HEAD
     console.log("\u51C6\u5907addNote", title);
+=======
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     note = this.dealPrefixOrSuffix(note, created);
     let savedFolder = (_a = setting.savedFolder) != null ? _a : "/";
     let fullpath = "";
@@ -395,6 +448,7 @@ var Note = class {
             return;
           }
         } else {
+<<<<<<< HEAD
           let newFile = await this.app.vault.create(fullpath, note);
           const leaf = this.app.workspace.getLeaf(true);
           await leaf.openFile(newFile);
@@ -410,6 +464,13 @@ var Note = class {
         if (this.plugin.settings.templateName != null && this.plugin.settings.templateName.length > 1) {
           await this.insertTemplate();
         }
+=======
+          await this.app.vault.create(fullpath, note);
+          return;
+        }
+      } else {
+        await this.app.vault.create(fullpath, note);
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
       }
       this.helper.addStatus("new message to note:" + fullpath, this.plugin);
     } catch (err) {
@@ -514,7 +575,11 @@ var Note = class {
       return false;
     }
     let url = match[1];
+<<<<<<< HEAD
     if (url.indexOf("qpic.cn") > 0) {
+=======
+    if (url.indexOf("mmbiz.qpic.cn") > 0) {
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
       return true;
     }
     let suffix = url.substr(-3, 3);
@@ -527,15 +592,22 @@ var Note = class {
     }
     return false;
   }
+<<<<<<< HEAD
   // parse imageOnly message and save image to local 
   // @return localfile note, eg:  ![[somgpic.png]]
   async parseImageOnly(msg) {
+=======
+  // save image to local 
+  // @return localfile note, eg:  ![[somgpic.png]]
+  async saveImage(setting, msg) {
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     const urlRegex = /\]\((https?:\/\/[^\s)]+)\)/;
     const match = msg.match(urlRegex);
     if (match == null || match.length < 2) {
       return msg;
     }
     let url = match[1];
+<<<<<<< HEAD
     let localPath = await this.saveUrlToLocal(url);
     if (localPath != "") {
       let localMsg = "![[" + localPath + "|400]]";
@@ -559,10 +631,24 @@ var Note = class {
     if (imgPath == null || imgPath == "" || imgName == null || imgName == "") {
       console.error("saveUrlToLocal err, imgPath or imgName empty:", imgPath, imgName);
       return "";
+=======
+    let resp = await (0, import_obsidian3.requestUrl)(url);
+    if (resp.status != 200 || resp.arrayBuffer.byteLength < 1) {
+      return msg;
+    }
+    let imgData = new Uint8Array(resp.arrayBuffer);
+    let imgInfo = this.checkImageExistence(await this.getImageSavedPath(setting, url));
+    let imgPath = imgInfo[0];
+    let imgName = imgInfo[1];
+    if (imgPath == null || imgPath == "" || imgName == null || imgName == "") {
+      console.error("save image to local err, imgPath or imgName empty:", imgPath, imgName);
+      return msg;
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     }
     try {
       const file = await this.app.vault.createBinary(imgPath, imgData);
       if (file == null || typeof file.basename == "undefined" || file.basename.length < 1) {
+<<<<<<< HEAD
         console.error("saveUrlToLocal vault.createBinary err,file not saved.");
         return "";
       }
@@ -570,6 +656,16 @@ var Note = class {
     } catch (err) {
       console.error("saveUrlToLocal createBinary err:", err);
       return "";
+=======
+        console.error("vault.createBinary err,file not saved.");
+        return msg;
+      }
+      let localMsg = "![[" + imgPath + "|400]]";
+      return localMsg;
+    } catch (err) {
+      console.error("saveImage createBinary err:", err);
+      return msg;
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     }
   }
   // get image saved path
@@ -582,7 +678,11 @@ var Note = class {
     if (urlPath == null || urlPath.length < 1) {
       fileName = this.helper.now().toString() + ".jpg";
     } else {
+<<<<<<< HEAD
       fileName = this.helper.now().toString() + urlPath.substring(urlPath.lastIndexOf("/") + 1);
+=======
+      fileName = urlPath.substring(urlPath.lastIndexOf("/") + 1);
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     }
     if (fileName.indexOf(".") < 0) {
       fileName = fileName + ".jpg";
@@ -638,6 +738,7 @@ var Note = class {
     if (exist) {
       return;
     }
+<<<<<<< HEAD
     await this.app.vault.createFolder(folder);
   }
   // insert template to current opening file
@@ -716,6 +817,9 @@ var Note = class {
       content = content.replace(match[0], replaced);
     }
     return content;
+=======
+    let tf = await this.app.vault.createFolder(folder);
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   }
 };
 
@@ -842,6 +946,7 @@ var AppendSettingTab = class extends import_obsidian4.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+<<<<<<< HEAD
     const templates = this.helper.getAllTemplates(this.app);
     new import_obsidian4.Setting(containerEl).setName(this.lang.CHOOSE_TEMPLATE).setDesc(this.lang.CHOOSE_TEMPLATE_DESC).addDropdown((dropdown) => {
       dropdown.addOption("", "");
@@ -855,6 +960,8 @@ var AppendSettingTab = class extends import_obsidian4.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+=======
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     new import_obsidian4.Setting(containerEl).setName(this.lang.NAME_VERIFYBTN).setDesc(this.lang.DESC_VERIFYBTN).addButton((button) => {
       button.setButtonText(this.lang.NAME_VERIFYBTN).setCta().onClick(async () => {
         await this.plugin.saveSettings();
@@ -910,6 +1017,7 @@ var AppendPlugin = class extends import_obsidian5.Plugin {
   async onload() {
     await this.loadSettings();
     this.addSettingTab(new AppendSettingTab(this.app, this));
+<<<<<<< HEAD
     if (true) {
       this.intervalRefresh();
     } else {
@@ -917,6 +1025,9 @@ var AppendPlugin = class extends import_obsidian5.Plugin {
         this.intervalRefresh();
       }, 3e4);
     }
+=======
+    this.intervalRefresh();
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
   }
   onunload() {
   }
@@ -934,8 +1045,12 @@ var AppendPlugin = class extends import_obsidian5.Plugin {
         fixedTitle: "",
         insertPosition: "",
         contentSuffix: "",
+<<<<<<< HEAD
         contentPrefix: "",
         templateName: ""
+=======
+        contentPrefix: ""
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
       };
       this.settings = defaultConf;
     }
@@ -965,3 +1080,8 @@ var AppendPlugin = class extends import_obsidian5.Plugin {
     }, interval));
   }
 };
+<<<<<<< HEAD
+=======
+
+/* nosourcemap */
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984

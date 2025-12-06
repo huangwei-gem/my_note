@@ -1,9 +1,15 @@
 {
     "id": "pkmer",
     "name": "PKMer",
+<<<<<<< HEAD
     "version": "1.0.6",
     "minAppVersion": "1.3.5",
     "description": "A marketplace of third-party plugins and themes developed by Obsidian enthusiasts in China to enhance the experience of using Obsidian in China.",
+=======
+    "version": "0.8.5",
+    "minAppVersion": "1.3.5",
+    "description": "这是一个连接pkmer.cn的插件",
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
     "author": "PKMer(windily-cloud&cumany)",
     "authorUrl": "https://pkmer.cn",
     "fundingUrl": {

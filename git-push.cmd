@@ -1,105 +1,105 @@
 @echo off
 
-REM 检查是否在Git仓库中
+REM Check if in Git repository
 if not exist .git (
-    echo 错误: 当前目录不是Git仓库!
+    echo ERROR: Not in a Git repository!
     pause
     exit /b 1
 )
 
 echo =============================
-echo    Git一键提交脚本
+echo    Git Auto Commit Script
 echo =============================
 echo.
 
-REM 检查远程仓库配置
+REM Check remote repository configuration
 git config --get remote.origin.url >nul 2>&1
 if errorlevel 1 (
-    echo 警告: 未配置远程仓库!
-    echo 正在添加远程仓库...
-    git remote add origin https://github.com/huangwei-gem/my_note.git
+    echo WARNING: Remote repository not configured!
+    echo Adding remote repository...
+    git remote add origin https://github.com/huangwei-gem/obsidian_data.git
     if errorlevel 1 (
-        echo 错误: 添加远程仓库失败!
+        echo ERROR: Failed to add remote repository!
         pause
         exit /b 1
     )
-    echo 远程仓库添加成功!
+    echo Remote repository added successfully!
 echo.
 )
 
-REM 检查分支跟踪状态
+REM Check branch tracking status
 git rev-parse --abbrev-ref --symbolic-full-name @{u} >nul 2>&1
 if errorlevel 1 (
-    echo 正在设置分支跟踪...
+    echo Setting up branch tracking...
     git branch --set-upstream-to=origin/master master
 )
 
-REM 拉取最新代码
-echo 步骤1: 正在拉取最新代码...
+REM Pull latest changes
+echo Step 1: Pulling latest changes...
 git pull origin master --allow-unrelated-histories 2>nul
 if errorlevel 1 (
-    echo 拉取失败，可能是首次推送或网络问题
+    echo Pull failed, possible first push or network issue
 )
 echo.
 
-REM 添加所有更改
-echo 步骤2: 正在添加所有更改...
+REM Add all changes
+echo Step 2: Adding all changes...
 git add -A
 if errorlevel 1 (
-    echo 添加失败！
+    echo Add failed!
     pause
     exit /b 1
 )
-echo 添加成功！
+echo Add successful!
 echo.
 
-REM 检查是否有更改
+REM Check if there are changes
 git status --porcelain >nul
 if errorlevel 1 (
-    echo 没有文件更改，无需提交!
+    echo No changes to commit!
     pause
     exit /b 0
 )
 
-REM 获取当前日期和时间，作为默认提交信息
+REM Get current date and time for default commit message
 set "datetime=%date:~0,4%%date:~5,2%%date:~8,2%-%time:~0,2%%time:~3,2%%time:~6,2%"
 set "datetime=%datetime: =0%"
 
-REM 提示用户输入提交信息
-echo 步骤3: 请输入提交信息（默认：自动提交-%datetime%）：
+REM Prompt for commit message
+echo Step 3: Enter commit message (default: Auto commit-%datetime%):
 set /p commit_msg=
-if "%commit_msg%"=="" set commit_msg=自动提交-%datetime%
+if "%commit_msg%"=="" set commit_msg=Auto commit-%datetime%
 
-REM 提交更改
-echo 正在提交更改...
+REM Commit changes
+echo Committing changes...
 git commit -m "%commit_msg%"
 if errorlevel 1 (
-    echo 提交失败！可能没有需要提交的更改
+    echo Commit failed! No changes to commit
     pause
     exit /b 1
 )
-echo 提交成功！
+echo Commit successful!
 echo.
 
-REM 推送代码到远程仓库
-echo 步骤4: 正在推送代码到远程仓库...
+REM Push to remote repository
+echo Step 4: Pushing to remote repository...
 git push origin master
 if errorlevel 1 (
-    echo 推送失败！请检查网络或权限
+    echo Push failed! Check network or permissions
     pause
     exit /b 1
 )
-echo 推送成功！
+echo Push successful!
 echo.
 echo =============================
-echo      提交完成！
+echo      Commit Complete!
 echo =============================
-echo 远程仓库地址：https://github.com/huangwei-gem/my_note.git
-echo 当前分支：master
+echo Remote: https://github.com/huangwei-gem/obsidian_data.git
+echo Branch: master
 echo.
 
-REM 显示最近的提交记录
-echo 最近提交记录：
+REM Show recent commits
+echo Recent commits:
 git log --oneline -3
 
 echo.

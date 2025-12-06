@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 {"id":"messager","name":"Messager","version":"1.1.6","minAppVersion":"0.15.0","description":"Save messages into vault which sending through WeChat / HTTP API / Email","author":"Rainyluo","authorUrl":"https://wechatobsidian.com/","isDesktopOnly":false}
+=======
+{
+	"id": "messager",
+	"name": "Messager",
+	"version": "1.1.2",
+	"minAppVersion": "0.15.0",
+	"description": "Save messages into vault which sending through WeChat / HTTP API / Email",
+	"author": "Rainyluo",
+	"authorUrl": "https://wechatobsidian.com/",
+	"isDesktopOnly": false
+}
+>>>>>>> 147c32a0833b770d40b8d58619d6cb2f6580c984
