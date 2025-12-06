@@ -51,9 +51,6 @@ c:\笔记\
 │   └── documents\               # Trae 文档记录
 ├── AI笔记\                       # 🤖 AI 相关笔记和资料
 ├── git-push.cmd                  # 🚀 Git 自动提交脚本（中文增强版）
-├── git-push-simple.cmd           # 📝 简化版Git脚本（避免乱码）
-├── git-push-ps.ps1               # 💻 PowerShell版本（Unicode支持）
-├── 编码问题解决方案.md            # 🔤 编码问题详细解决方案
 └── obsidian笔记\                 # 📖 Obsidian 笔记主目录
     ├── .makemd\                 # Make.md 插件配置
     ├── .obsidian\               # ⚙️ Obsidian 核心配置
@@ -84,18 +81,6 @@ c:\笔记\
 3. **🏷️ 合理分类** - 使用标签和文件夹科学管理笔记
 4. **🚫 敏感信息** - 请勿将敏感信息提交到公开仓库
 5. **🔧 插件管理** - 定期更新插件以获得最新功能和安全修复
-6. **编码问题**：如遇中文乱码，请参考 `编码问题解决方案.md` 或使用 `git-push-simple.cmd`
-
-## 🔤 编码问题说明
-
-**问题**：在部分 Windows 系统中运行 `git-push.cmd` 可能出现中文乱码
-
-**解决方案**：
-- 使用 `git-push-simple.cmd`（系统默认编码）
-- 使用 `git-push-ps.ps1`（PowerShell 版本，支持 Unicode）
-- 参考 `编码问题解决方案.md` 进行系统设置
-
-**推荐**：普通用户使用简化版，高级用户使用 PowerShell 版本
 
 ## 🎯 核心特色
 
