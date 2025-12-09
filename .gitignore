@@ -1,0 +1,962 @@
+%f 
+ 
+# 大文件自动忽略 (自动添加) 
+%f 
+ 
+# 大文件自动忽略 (自动添加) 
+ 
+# 大文件自动忽略 (自动添加) 
+C:\Users\35796\Documents\笔记\my_note\.gitignore 
+C:\Users\35796\Documents\笔记\my_note\git-push-outside-simple.cmd 
+C:\Users\35796\Documents\笔记\my_note\git-push-outside-使用说明.md 
+C:\Users\35796\Documents\笔记\my_note\git-push-outside.cmd 
+C:\Users\35796\Documents\笔记\my_note\.git\config 
+C:\Users\35796\Documents\笔记\my_note\.git\description 
+C:\Users\35796\Documents\笔记\my_note\.git\FETCH_HEAD 
+C:\Users\35796\Documents\笔记\my_note\.git\HEAD 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\applypatch-msg.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\commit-msg.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\fsmonitor-watchman.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\post-update.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-applypatch.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-commit.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-merge-commit.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-push.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-rebase.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\pre-receive.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\prepare-commit-msg.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\push-to-checkout.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\sendemail-validate.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\hooks\update.sample 
+C:\Users\35796\Documents\笔记\my_note\.git\info\exclude 
+C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\HEAD 
+C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\inside 
+C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\master 
+C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\outside 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\pack\pack-716a0601c567416578f8cf5e8e28c31f4e00acdd.idx 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\pack\pack-716a0601c567416578f8cf5e8e28c31f4e00acdd.pack 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\pack\pack-716a0601c567416578f8cf5e8e28c31f4e00acdd.rev 
+C:\Users\35796\Documents\笔记\my_note\.git\refs\remotes\origin\HEAD 
+C:\Users\35796\Documents\笔记\my_note\.git\refs\remotes\origin\inside 
+C:\Users\35796\Documents\笔记\my_note\.git\refs\remotes\origin\master 
+C:\Users\35796\Documents\笔记\my_note\.git\refs\remotes\origin\outside 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.makemd\fileCache.mdc 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.makemd\superstate.mdc 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\app.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\appearance.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\bookmarks.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\community-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\core-plugins-migration.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\core-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\daily-notes.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\graph.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\hotkeys.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\page-preview.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\query.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\templates.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\types.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\workspace.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\calendar\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\cmdr\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\copilot\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\copilot\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\copilot\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\copilot\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\customjs\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\customjs\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\customjs\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\customjs\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\dataview\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\dataview\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\dataview\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\editing-toolbar\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\editing-toolbar\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\editing-toolbar\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\excalidraw-cn\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\excalidraw-cn\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\excalidraw-cn\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\execute-code\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\execute-code\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\execute-code\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\execute-code\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\i18n\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\i18n\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\i18n\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\i18n\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\Spaces.mdb 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\make-md\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\mdfriday\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\mdfriday\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\mdfriday\styles(1).css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\mdfriday\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\messager\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\messager\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\messager\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\messager\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\distVersion.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\css\layout.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\css\mattropolis.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\css\vs2015.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reset.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reveal.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reveal.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reveal.esm.js.map 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reveal.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\reveal.js.map 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\fontawesome\all.min.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\beige.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\black.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\blood.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\consult.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\league.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\mattropolis.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\moon.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\night.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\serif.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\simple.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\sky.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\solarized.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\white.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\lato\lato.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\league-gothic\league-gothic.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\LICENSE 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-italic.eot 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-italic.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-italic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-regular.eot 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-regular.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibold.eot 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibold.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibolditalic.eot 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibolditalic.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro-semibolditalic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\dist\theme\fonts\source-sans-pro\source-sans-pro.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\plugin (copy).js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\style.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\_style.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\blackboard.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-black.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-blue.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-green.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-orange.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-purple.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-red.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\boardmarker-yellow.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-blue.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-green.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-orange.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-purple.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-red.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-white.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\chalk-yellow.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\sponge.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chalkboard\img\whiteboard.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chart\chart.min.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chart\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\chart\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\customcontrols\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\customcontrols\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\customcontrols\style.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\elapsed-time-bar\elapsed-time-bar.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\highlight\highlight.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\highlight\highlight.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\highlight\monokai.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\highlight\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\highlight\zenburn.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\markdown\markdown.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\markdown\markdown.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\markdown\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\katex.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\math.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\math.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax2.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax3.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\core.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\latest.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\loader.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\mml-chtml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\mml-svg.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\node-main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\startup.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-chtml-full.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-chtml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-mml-chtml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-mml-svg.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-svg-full.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\tex-svg.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\a11y\assistive-mml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\a11y\complexity.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\a11y\explorer.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\a11y\semantic-enrich.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\adaptors\liteDOM.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\asciimath.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\mml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex-base.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex-full.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\mml\entities.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\mml\extensions\mml3.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\mml\extensions\mml3.sef.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\action.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\all-packages.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\ams.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\amscd.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\autoload.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\bbox.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\boldsymbol.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\braket.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\bussproofs.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\cancel.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\centernot.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\color.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\colortbl.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\colorv2.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\configmacros.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\enclose.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\extpfeil.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\gensymb.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\html.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\mathtools.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\mhchem.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\newcommand.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\noerrors.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\noundefined.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\physics.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\require.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\setoptions.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\tagformat.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\textcomp.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\textmacros.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\unicode.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\upgreek.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\input\tex\extensions\verb.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\svg.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\tex.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_AMS-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Calligraphic-Bold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Calligraphic-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Fraktur-Bold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Fraktur-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Main-Bold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Main-Italic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Main-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Math-BoldItalic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Math-Italic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Math-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_SansSerif-Bold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_SansSerif-Italic.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_SansSerif-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Script-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Size1-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Size2-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Size3-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Size4-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Typewriter-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Vector-Bold.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Vector-Regular.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\chtml\fonts\woff-v2\MathJax_Zero.woff 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\output\svg\fonts\tex.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\sre-node.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\sre_browser.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\de.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\en.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\es.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\fr.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\hi.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\it.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\sre\mathmaps\nemeth.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\ui\lazy.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\ui\menu.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\math\mathjax\ui\safe.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\bower.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\CONTRIBUTING.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\gulpfile.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\LICENSE 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\menu.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\menu.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\menu.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\package.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\menu\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\mermaid\mermaid.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\mermaid\mermaid.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\mermaid\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\notes\notes.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\notes\notes.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\notes\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\notes\speaker-view.html 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\reveal-pointer\pointer.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\reveal-pointer\pointer.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\search\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\search\search.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\search\search.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\zoom\plugin.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\zoom\zoom.esm.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\plugin\zoom\zoom.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\template\embed.html 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-advanced-slides\template\reveal.html 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-auto-link-title\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-auto-link-title\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-auto-link-title\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-banners\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-banners\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-banners\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-banners\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-checklist-plugin\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-custom-frames\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-custom-frames\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-custom-frames\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-custom-frames\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-excalidraw-plugin\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-git\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-git\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-git\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-git\obsidian_askpass.sh 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-git\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-hover-editor\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-icon-folder\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-icon-folder\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-icon-folder\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-icon-folder\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-jianli\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-jianli\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-jianli\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-jianli\styles.zip 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-markmind\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-markmind\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-markmind\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-memos\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-memos\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-memos\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-memos\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mind-map\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-mkdocs-publisher-7.6.1\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-pkmer\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-projects\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-projects\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-projects\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-projects\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-proxy-github\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-proxy-github\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-proxy-github\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-proxy-github\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-style-settings\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-tasks-plugin\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-tasks-plugin\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-tasks-plugin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-tasks-plugin\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-weread-plugin\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-weread-plugin\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\obsidian-weread-plugin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\open-in-new-tab\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\open-in-new-tab\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\quickadd\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\quickadd\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\quickadd\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\quickadd\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\recent-files-obsidian\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\surfing\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\surfing\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\surfing\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\surfing\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\table-editor-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\table-editor-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\table-editor-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\table-editor-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\duplicate.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\lang\state.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\templater-obsidian\lang\zh-cn.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\various-complements\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\various-complements\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\various-complements\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\various-complements\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\vscode-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\vscode-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\plugins\vscode-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】custom-rainbow-colors.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】its-frontmatter.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】minimal-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】notion-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】扩展的颜色方案.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\snippets\【AnuPpuccin】浮动搜索栏.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\AnuPpuccin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\AnuPpuccin\theme.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\Blue Topaz\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\Blue Topaz\theme.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\Minimal\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.obsidian\themes\Minimal\theme.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\waypoints.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Drawing 2025-04-01 00.38.50.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Drawing 2025-04-01 01.23.24.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Drawing 2025-04-08 15.46.24.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Drawing 2025-04-08 16.57.41.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Drawing 2025-04-09 13.05.51.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Excalidraw.Kanba.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\ExcalidrawStartup.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\从商业的角度分析大祥哥被骗.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\脚本说明文档.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Font\Font.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Font\Muyao-Softbrush-2.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Font\字由客户端.url 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Font\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AddMermaidSvg.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AddMermaidSvg.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AddTagsByModalForm.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AddTagsByModalForm.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AdjustImageSize.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\AdjustImageSize.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Auto Layout.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Auto Layout.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Box Selected Elements.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Box Selected Elements.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Deconstruct selected elements into new drawing.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Deconstruct selected elements into new drawing.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Elbow connectors.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Elbow connectors.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\excalidraweagel.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\ExcalidrawGlobalSearch.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\ExcalidrawGlobalSearch.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\ExcalidrawScriptInstallMarket.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\ExcalidrawScriptInstallMarket.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally keep text centered.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally keep text centered.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Fixed spacing.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Fixed spacing.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Fixed vertical distance between centers.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Fixed vertical distance between centers.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\FrameKanban.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\FrameKanban.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Grid Selected Images.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Grid Selected Images.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Mindmap connector.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Mindmap connector.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Mindmap format.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Mindmap format.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Normalize Selected Arrows.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Normalize Selected Arrows.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\NumberMode.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\NumberMode.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Organic Line.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Organic Line.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\playExcalidrawAnimation.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\playExcalidrawAnimation.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\QuickSwitchFrame.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\QuickSwitchFrame.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\README.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\SaveSelectAsLocalePng.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\SaveSelectAsLocalePng.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Slideshow.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.space\templates\Excalidraw\Scripts\Downloaded\Slideshow.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\202409191123.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\202409191124.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\2025-04-12.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\202504091854.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\crying_stickman.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\deconstructed.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\excalidraw 25-04-12 09.46.57.ex 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\excalidraw 25-04-12 09.53.17.ex 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\main.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\My code file.ts 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Pasted Image 20250409090021_614.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Pasted Image 20250409091502_334.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Pasted Image 20250409091627_495.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Pasted image 20250413141814.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Slideshow.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Untitled 2.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\Untitled.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\剪辑学习.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\日期@2025-04-12-星期六n.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 1.base 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 1.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 2.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 2.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 3.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 3.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名 4.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名.base 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名.canvas 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\未命名.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\desktop-tutorial\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\obsidian_data\.gitattributes 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\影刀学习\影刀学习.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\影刀学习\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\水泡球\大学生教育的困境是如何形成的.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\水泡球\水泡球.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\水泡球\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\学会布流量的局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\普通人的出路在哪里？.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\源头哥拆局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\练习拆局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\源头哥拆局\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\闯哥\未命名.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\闯哥\闯哥.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\闯哥\随笔.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\.trash\闯哥\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Drawing 2025-04-01 01.23.24.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Drawing 2025-04-08 15.46.24.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Drawing 2025-04-08 16.57.41.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Drawing 2025-04-09 13.05.51.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Excalidraw.Kanba.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\ExcalidrawStartup.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\git流程图解.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\webpack图解.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\从商业的角度分析大祥哥被骗.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\美元潮汐是如何收割全世界的.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\脚本说明文档.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Font\Font.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Font\Muyao-Softbrush-2.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Font\字由客户端.url 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Font\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AddMermaidSvg.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AddMermaidSvg.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AddTagsByModalForm.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AddTagsByModalForm.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AdjustImageSize.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\AdjustImageSize.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Auto Layout.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Auto Layout.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Box Selected Elements.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Box Selected Elements.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Deconstruct selected elements into new drawing.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Deconstruct selected elements into new drawing.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Elbow connectors.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Elbow connectors.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\excalidraweagel.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\ExcalidrawGlobalSearch.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\ExcalidrawGlobalSearch.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\ExcalidrawScriptInstallMarket.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\ExcalidrawScriptInstallMarket.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally keep text centered.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally keep text centered.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Expand rectangles horizontally.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Fixed spacing.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Fixed spacing.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Fixed vertical distance between centers.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Fixed vertical distance between centers.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\FrameKanban.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\FrameKanban.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Grid Selected Images.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Grid Selected Images.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Mindmap connector.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Mindmap connector.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Mindmap format.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Mindmap format.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Normalize Selected Arrows.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Normalize Selected Arrows.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\NumberMode.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\NumberMode.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Organic Line.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Organic Line.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\playExcalidrawAnimation.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\playExcalidrawAnimation.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\QuickSwitchFrame.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\QuickSwitchFrame.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\README.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\README.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\SaveSelectAsLocalePng.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\SaveSelectAsLocalePng.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Slideshow.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Excalidraw\Scripts\Downloaded\Slideshow.svg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted Image 20250410002015_413.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted Image 20250410002317_994.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20250411234309.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20250411234739.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20250412002047.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20250412002124.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20250412103804.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104181917.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104183435.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104195900.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104201240.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104201652.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104201946.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104205641.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251104210057.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251105001108.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251109133450.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251118182418.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251118183015.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251118183814.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251118185259.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251118190732.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251119151439.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251123120921.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251123121155.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251123121251.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\Pasted image 20251123190500.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\img_data\头图.jpg 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\MDFriday\Untitled Friday Site 1.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\MDFriday\Untitled Friday Site.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\Jack叔叔历史小课堂1929年美股大崩盘简明整理包.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\Tags.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\为什么近些年安卓手机不卡了.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\从商业的角度分析大祥哥被骗.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\使用AI工具.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\大刘说实体.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\女人要嫁给有钱人.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\如何分析一个行业，以咖啡行业为主.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\小白要理解商业，从这个10个问题开始.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\拆解小米舆论战.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\RAG科普\RAG代码示例.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\RAG科普\RAG科普.excalidraw.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\RAG科普\RAG科普.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\RAG科普\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\人情世故\人情世故.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\人情世故\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\公关\公关.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\公关\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\商业\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\商业\商业.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\商业\家里上亿资产，但我却想跑路.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\商业\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\水泡球\大学生教育的困境是如何形成的.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\水泡球\水泡球.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\水泡球\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\学会布流量的局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\普通人的出路在哪里？.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\源头哥拆局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\练习拆局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\源头哥拆局\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\闯哥\未命名.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\闯哥\闯哥.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\闯哥\随笔.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\Tags\闯哥\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\template\周记.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\template\日记.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\weread.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\36氪.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\K哥爬虫.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\公安部网安局.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\南风窗.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\差评X.PIN.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\数字化转型DT.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\新京报评论.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\有意思报告.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\每晚一卷书.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\第一财经.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\给思考留点时间.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\肥猫说财.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\阅享认知.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\weread\公众号\陈默先生.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\亲戚.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\人情世故.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\合伙人.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\家人.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\老婆.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\职场.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\陌生人.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\人情世故\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\剪辑学习\剪辑学习.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\剪辑学习\基础认识.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\剪辑学习\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\周记\周记.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\周记\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\商业案例\.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\商业案例\商业案例.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\商业案例\家里上亿资产，但我却想跑路.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\商业案例\案例.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\商业案例\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\影刀学习\影刀学习.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\影刀学习\影刀的基本介绍.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\影刀学习\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\微信消息\2025-04-12-星期六.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\微信消息\微信消息.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\微信消息\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2024-09-19.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2024-09-22.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2024-11-19.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-03-31.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-01.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-08.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-09.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-10.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-11.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-12.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-04-13.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-12-02.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-12-04.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\日记\2025-12-06.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\cedict_1_0_ts_utf-8_mdbg.zip 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库.zip 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi.zip 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\资源.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\.space\def.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\cedict_1_0_ts_utf-8_mdbg\cedict_ts.u8 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\AnuPpuccinMD元素设置对照.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\测试文章.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\自制-浅色.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\自制-深色.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\app.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\appearance.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\bookmarks.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\community-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\core-plugins-migration.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\core-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\hotkeys.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\workspace.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\calendar\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\calendar\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\calendar\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\cmdr\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\cmdr\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\cmdr\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\cmdr\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\file-tree-alternative\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\file-tree-alternative\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\file-tree-alternative\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\file-tree-alternative\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\recent-files-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\recent-files-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\recent-files-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\plugins\recent-files-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】custom-rainbow-colors.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】its-frontmatter.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】minimal-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】notion-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】扩展的颜色方案.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\snippets\【AnuPpuccin】浮动搜索栏.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\themes\AnuPpuccin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\.obsidian\themes\AnuPpuccin\theme.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\Everforest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\浅&深-小岛.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\浅色-小岛白天.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\浅色-粉.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\浅色-粉.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-三棱镜.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-三棱镜.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-书房.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-书房.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-小岛夜晚.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-小猫.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-小猫.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-星空.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-星空.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-林间小屋.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-林间小屋.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-树林.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-树林.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-鬼灭之刃.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\Attachment\深色-鬼灭之刃.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\精选壁纸\动漫.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\精选壁纸\场景.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\精选壁纸\极简.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\精选壁纸\童话绘本风.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\chorbs美化库\精选壁纸\风景.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\obsidian-mkdocs-publisher-7.6.1\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\obsidian-mkdocs-publisher-7.6.1\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\obsidian-mkdocs-publisher-7.6.1\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\Muyao-Softbrush-2.ttf 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\字由客户端.url 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\AnuPpuccinMD元素设置对照.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\测试文章.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\自制-浅色.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\自制-深色.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\app.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\appearance.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\bookmarks.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\community-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\core-plugins-migration.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\core-plugins.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\hotkeys.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\workspace.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\calendar\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\calendar\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\calendar\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\cmdr\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\cmdr\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\cmdr\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\cmdr\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\file-tree-alternative\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\file-tree-alternative\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\file-tree-alternative\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\file-tree-alternative\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-hover-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\obsidian-hover-editor\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\recent-files-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\obsidian-style-settings\ZH增强编辑\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\recent-files-obsidian\data.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\recent-files-obsidian\main.js 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\recent-files-obsidian\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\plugins\recent-files-obsidian\styles.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】custom-rainbow-colors.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】its-frontmatter.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】minimal-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】notion-cards.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】扩展的颜色方案.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\snippets\【AnuPpuccin】浮动搜索栏.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\themes\AnuPpuccin\manifest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\.obsidian\themes\AnuPpuccin\theme.css 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\Everforest.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\浅&深-小岛.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\浅色-小岛白天.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\浅色-粉.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\浅色-粉.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-三棱镜.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-三棱镜.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-书房.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-书房.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-小岛夜晚.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-小猫.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-小猫.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-星空.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-星空.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-林间小屋.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-林间小屋.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-树林.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-树林.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-鬼灭之刃.json 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\Attachment\深色-鬼灭之刃.png 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\精选壁纸\动漫.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\精选壁纸\场景.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\精选壁纸\极简.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\精选壁纸\童话绘本风.md 
+C:\Users\35796\Documents\笔记\my_note\obsidian笔记\资源\YaoRuanBiShouXieTi\chorbs美化库\精选壁纸\风景.md 
+C:\Users\35796\Documents\笔记\my_note\剪辑笔记\README.md 
+C:\Users\35796\Documents\笔记\my_note\数据分析笔记\MySQL数据库.md 
+C:\Users\35796\Documents\笔记\my_note\数据分析笔记\测试.py 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\README.md 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\Tk新人入门.xmind 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\TK跨境电商入门.png 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\TK跨境电商入门.svg 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.png 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.svg 
+C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.xmind 
+ 
+# 系统文件 
+Thumbs.db 
+desktop.ini 
+.DS_Store 
+# 临时文件 
+*.tmp 
+*.temp 
+*.log 
+# 压缩包 
+*.zip 
+*.rar 
+*.7z 
