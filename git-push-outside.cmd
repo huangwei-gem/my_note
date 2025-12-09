@@ -159,13 +159,21 @@ echo.
 echo 正在推送到远程仓库的 %BRANCH% 分支...
 git push origin %BRANCH%
 if %errorlevel% neq 0 (
-    echo 推送失败！
-    echo 可能的原因:
-    echo 1. 网络连接问题
-    echo 2. 权限问题
-    echo 3. 远程仓库冲突
-    pause
-    exit /b 1
+    echo 推送失败，尝试强制推送...
+    git push origin %BRANCH% --force
+    if %errorlevel% neq 0 (
+        echo 强制推送也失败了！
+        echo 可能的原因:
+        echo 1. 网络连接问题
+        echo 2. 权限问题
+        echo 3. 远程仓库配置问题
+        pause
+        exit /b 1
+    ) else (
+        echo 强制推送成功！
+    )
+) else (
+    echo 推送成功！
 )
 
 echo.
