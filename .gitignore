@@ -2908,10 +2908,11 @@ desktop.ini
 *.zip 
 *.rar 
 *.7z 
+%f 
+%f 
  
-# 大文件自动忽略 (自动添加于 周二 2025/12/09 13:15:00.60) 
+# 大文件自动忽略 (自动添加) 
 C:\Users\35796\Documents\笔记\my_note\.gitignore 
-C:\Users\35796\Documents\笔记\my_note\.gitignore.bak 
 C:\Users\35796\Documents\笔记\my_note\git-push-outside-simple.cmd 
 C:\Users\35796\Documents\笔记\my_note\git-push-outside-使用说明.md 
 C:\Users\35796\Documents\笔记\my_note\git-push-outside.cmd 
@@ -2946,13 +2947,17 @@ C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\outside
 C:\Users\35796\Documents\笔记\my_note\.git\objects\09\8ad7bd472c13926949acbd3926c82b541207b7 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\0c\ea0be2ac0a82e5673e6af319c248ba671e2f83 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\1a\7b49618c96a6d1b5e3490c9db55e92e4d88444 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\22\32d00100a68024528bbfc23bb6b18fbf7e6c7e 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\2d\d6655b0e7c26ffe3f8f30cce25f5b838ba8816 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\3d\8f0334df712d7082ae2c3f0b971e39fc21b40b 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\4d\b27d4c0303a42acc1e353b7cff3b0683a2d5d3 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\71\80bdae587ef97b49b8030932aa1c7eacd0edf0 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\76\bbb400b864ca487ae5468e3b21b00c215441e5 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\82\3596e7378cb763fecf42c0cace74abdbade186 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\83\4355f4c8ea6573052924da08677a2a06153e3f 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\8f\7d9b47e04aa75455dd4d5623ff7d82712320ac 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\93\edd2b64a5f221c4683cbd3c6451962788e690f 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\96\45b45a414d7b08812b4b4ad4b9da8147c49a23 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\9f\c3541bf6fcc40ac5724f1ca264871afc0d5292 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\a2\5a6801bb6d50cba819f39c4f09b21b888116c3 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\ab\0587b18cfa804e4649979ccbccca1da8cd9553 
@@ -3876,3 +3881,16 @@ C:\Users\35796\Documents\笔记\my_note\运营笔记\TK跨境电商入门.svg
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.png 
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.svg 
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.xmind 
+ 
+# 系统文件 
+Thumbs.db 
+desktop.ini 
+.DS_Store 
+# 临时文件 
+*.tmp 
+*.temp 
+*.log 
+# 压缩包 
+*.zip 
+*.rar 
+*.7z 
