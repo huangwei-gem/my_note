@@ -3895,9 +3895,8 @@ desktop.ini
 *.rar 
 *.7z 
  
-# 大文件自动忽略 (自动添加于 周二 2025/12/09 18:32:04.20) 
+# 大文件自动忽略 (自动添加) 
 C:\Users\35796\Documents\笔记\my_note\.gitignore 
-C:\Users\35796\Documents\笔记\my_note\.gitignore.bak 
 C:\Users\35796\Documents\笔记\my_note\git-push-outside-使用说明.md 
 C:\Users\35796\Documents\笔记\my_note\git-push-outside.cmd 
 C:\Users\35796\Documents\笔记\my_note\push-to-github-outside.cmd 
@@ -3931,13 +3930,16 @@ C:\Users\35796\Documents\笔记\my_note\.git\logs\refs\remotes\origin\outside
 C:\Users\35796\Documents\笔记\my_note\.git\objects\08\93fc4611ddf3f4a4b7988da9bd33644d59ddfc 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\09\8ad7bd472c13926949acbd3926c82b541207b7 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\0c\ea0be2ac0a82e5673e6af319c248ba671e2f83 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\12\c7d8f7bdc291beada9115fba38a45c792bb555 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\1a\7b49618c96a6d1b5e3490c9db55e92e4d88444 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\22\32d00100a68024528bbfc23bb6b18fbf7e6c7e 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\2a\822e8d8e30e5db8d0c98ba6dca3c93b4d87171 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\2d\d6655b0e7c26ffe3f8f30cce25f5b838ba8816 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\35\e24e5facf2a1215021fd1594eec9eeb4841467 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\3d\8f0334df712d7082ae2c3f0b971e39fc21b40b 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\4d\b27d4c0303a42acc1e353b7cff3b0683a2d5d3 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\71\80bdae587ef97b49b8030932aa1c7eacd0edf0 
+C:\Users\35796\Documents\笔记\my_note\.git\objects\73\b073603e7a942c8181eeef0447bb1fb5e698b6 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\76\bbb400b864ca487ae5468e3b21b00c215441e5 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\82\3596e7378cb763fecf42c0cace74abdbade186 
 C:\Users\35796\Documents\笔记\my_note\.git\objects\83\4355f4c8ea6573052924da08677a2a06153e3f 
@@ -4868,3 +4870,16 @@ C:\Users\35796\Documents\笔记\my_note\运营笔记\TK跨境电商入门.svg
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.png 
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.svg 
 C:\Users\35796\Documents\笔记\my_note\运营笔记\入职运营后的工作内容.xmind 
+ 
+# 系统文件 
+Thumbs.db 
+desktop.ini 
+.DS_Store 
+# 临时文件 
+*.tmp 
+*.temp 
+*.log 
+# 压缩包 
+*.zip 
+*.rar 
+*.7z 
