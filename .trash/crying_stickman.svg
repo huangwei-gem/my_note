@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">
+  <!-- 头部 -->
+  <circle cx="100" cy="50" r="30" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- 悲伤的表情 -->
+  <path d="M85 60 Q100 50 115 60" stroke="black" stroke-width="2" fill="none"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="85" cy="45" r="3" stroke="black" stroke-width="1" fill="none"/>
+  <circle cx="115" cy="45" r="3" stroke="black" stroke-width="1" fill="none"/>
+  
+  <!-- 眼泪 -->
+  <path d="M85 48 L80 70" stroke="black" stroke-width="1" fill="none"/>
+  <path d="M115 48 L120 70" stroke="black" stroke-width="1" fill="none"/>
+  <circle cx="80" cy="70" r="2" stroke="black" stroke-width="1" fill="none"/>
+  <circle cx="120" cy="70" r="2" stroke="black" stroke-width="1" fill="none"/>
+  
+  <!-- 身体 -->
+  <line x1="100" y1="80" x2="100" y2="180" stroke="black" stroke-width="2"/>
+  
+  <!-- 手臂 -->
+  <line x1="100" y1="100" x2="60" y2="130" stroke="black" stroke-width="2"/>
+  <line x1="100" y1="100" x2="140" y2="130" stroke="black" stroke-width="2"/>
+  
+  <!-- 腿部 -->
+  <line x1="100" y1="180" x2="70" y2="250" stroke="black" stroke-width="2"/>
+  <line x1="100" y1="180" x2="130" y2="250" stroke="black" stroke-width="2"/>
+</svg>

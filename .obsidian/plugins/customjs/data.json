@@ -1,0 +1,7 @@
+{
+  "jsFiles": "kimi.js",
+  "jsFolder": "./js",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [],
+  "rerunStartupScriptsOnFileChange": true
+}

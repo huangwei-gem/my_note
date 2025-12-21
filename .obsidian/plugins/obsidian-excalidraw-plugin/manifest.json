@@ -1,0 +1,12 @@
+{
+    "id": "obsidian-excalidraw-plugin",
+    "name": "Excalidraw",
+    "version": "2.9.1",
+    "minAppVersion": "1.1.6",
+    "description": "用于编辑和查看 Excalidraw 图纸的 Obsidian 插件",
+    "author": "Zsolt Viczian",
+    "authorUrl": "https://www.zsolt.blog",
+    "fundingUrl": "https://ko-fi.com/zsolt",
+    "helpUrl": "https://github.com/zsviczian/obsidian-excalidraw-plugin#readme",
+    "isDesktopOnly": false
+}

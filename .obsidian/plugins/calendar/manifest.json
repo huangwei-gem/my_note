@@ -1,0 +1,10 @@
+{
+    "id": "calendar-beta",
+    "name": "Calendar (Beta)",
+    "description": "为 Obsidian 创建了一个简单的日历视图，用于在你的日常笔记之间可视化和导航。",
+    "version": "2.0.0",
+    "author": "Liam Cain",
+    "authorUrl": "https://github.com/liamcain/",
+    "isDesktopOnly": false,
+    "minAppVersion": "0.9.11"
+}

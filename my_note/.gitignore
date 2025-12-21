@@ -1,0 +1,29 @@
+# System specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# 忽略大文件
+*聚力盟·新质生产力汇总.pdf
+
+# 忽略Obsidian的插件数据文件
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/Spaces.mdb
+
+# 忽略其他可能的大文件
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.rar
+*.7z
+*.exe
+*.msi
+*.iso
+*.dmg
+*.pkg
