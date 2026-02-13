@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "4023a07f40a7362b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3562e9e40485d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51678f994ff5116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律/违规事件/中老年交友骗局.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中老年交友骗局"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f091d6a46f53757",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68b0a26f118d7b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341f83e5d59c7dbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "49027b0ef88ecaf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b5f230f5e672702f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "b410e3d8c060d52d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8c052ef45ed1acc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26352c74b3095e29",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "a79b8067895bbda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a58c045b456a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d97bbfcac3aafd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tags/大刘说实体.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "大刘说实体 的反向链接列表"
+            }
+          },
+          {
+            "id": "84cb932673b0eae2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tags/大刘说实体.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "大刘说实体 的出链列表"
+            }
+          },
+          {
+            "id": "4a935c67314dacc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "87aa27c3b65605e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-08 16.57.41.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Drawing 2025-04-08 16.57.41.excalidraw 的大纲"
+            }
+          },
+          {
+            "id": "3272cb3e7cd8d632",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "32912435603808a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "5f46b1679a822248",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "d20b8319f8e98f50",
+            "type": "leaf",
+            "state": {
+              "type": "Friday",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Friday"
+            }
+          },
+          {
+            "id": "b3fe2a5e86b0548d",
+            "type": "leaf",
+            "state": {
+              "type": "Friday_Service",
+              "state": {},
+              "icon": "dice-5",
+              "title": "Friday Service"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "i18n:I18N": false,
+      "pkmer:打开 Pkmer 插件市场": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "51678f994ff5116b",
+  "lastOpenFiles": [
+    "法律/违规事件/中老年交友骗局.md",
+    "法律/违规事件/机票退改签诈骗.md",
+    "人情世故/职场/基层干警的真实情况 .md",
+    "商业案例/实体/恋陪是什么？年轻女性为何极易对其上瘾？.md",
+    "商业案例/实体/AI以后的发展.md",
+    "商业案例/金融/黄金投资与幕后行为笔记.md",
+    "商业案例/金融/黄金市场的乱象.md",
+    "商业案例/金融/银行眼里交易的真实性.md",
+    "商业案例/金融/针对与校园女大的陷阱的流程.md",
+    "商业案例/金融/金融常识视频商业案例.md",
+    "商业案例/金融/蓝战非南非遇劫有关的金融知识.md",
+    "商业案例/金融/蒙大集团投资爆雷案例笔记.md",
+    "商业案例/金融/茅台产融结合案例笔记.md",
+    "商业案例/金融/花呗上市前的关键故事：从 30 亿到 3000 亿的杠杆游戏与监管风暴.md",
+    "商业案例/金融/舅妈让“我” AB 贷陷阱案例.md",
+    "商业案例/金融/老陌直播笔记.md",
+    "商业案例/金融/老陌2026-1-6直播.md",
+    "商业案例/金融/老张王总抽屉协议骗局笔记.md",
+    "商业案例/金融/网贷负债者.md",
+    "商业案例/金融/网贷的小故事.md",
+    "商业案例/金融/深圳家庭资金盘案例笔记.md",
+    "商业案例/金融/游戏经济行为案例读书笔记.md",
+    "商业案例/金融/有钱人消费才能拉动消费.md",
+    "商业案例/金融/新人给银行刷KPI.md",
+    "商业案例/金融/援助非洲的钱是我们纳税人的钱吗.md",
+    "商业案例/金融/张雪峰商业布局与动机分析.md",
+    "商业案例/金融",
+    "商业案例/实体",
+    "商业案例",
+    "Tags/#dai",
+    "Tags/#巨额",
+    "Tags/#ju",
+    "Tags/#jue",
+    "人情世故/职场/未命名",
+    "未命名.base",
+    "成长/Untitled.canvas",
+    "法律/违规事件/Untitled.canvas",
+    "成长/未命名",
+    "Excalidraw/sql语句的执行顺序.svg",
+    "Excalidraw/sql语句的执行顺序.png",
+    "img_data/812d04e788dc9dfd086cc1dbd1b223ff.png",
+    "未命名.canvas",
+    "img_data/exported_image 1.png",
+    "img_data/exported_image.png",
+    "img_data/Pasted image 20250413141814.png",
+    "img_data/Pasted image 20250412103804.png",
+    "img_data/Pasted image 20250412002124.png",
+    "img_data/Pasted image 20250412002047.png",
+    "img_data/Pasted image 20250411234739.png",
+    "Tags/闯哥/Untitled.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "//Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
