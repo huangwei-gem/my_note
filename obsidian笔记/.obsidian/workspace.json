@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3562e9e40485d0e",
+        "id": "203a3ec9e66cf0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "51678f994ff5116b",
+            "id": "7156ceeb57702553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/违规事件/中老年交友骗局.md",
+                "file": "商业案例/实体/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中老年交友骗局"
+              "title": "Untitled"
             }
           }
         ]
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/大刘说实体.md",
+                "file": "商业案例/实体/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "大刘说实体 的反向链接列表"
+              "title": "Untitled 的反向链接列表"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/大刘说实体.md",
+                "file": "商业案例/实体/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "大刘说实体 的出链列表"
+              "title": "Untitled 的出链列表"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-08 16.57.41.excalidraw.md",
+                "file": "商业案例/实体/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-08 16.57.41.excalidraw 的大纲"
+              "title": "Untitled 的大纲"
             }
           },
           {
@@ -233,12 +233,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,8 +263,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "51678f994ff5116b",
+  "active": "7156ceeb57702553",
   "lastOpenFiles": [
+    "商业案例/实体/Untitled.md",
+    "人情世故/职场/权力运作的本质.md",
+    "商业案例/实体/网红雷军是如何塌房的？.md",
+    "法律/实用法律知识/网红律师圈的乱象.md",
+    "商业案例/实体/Untitled.canvas",
+    "商业案例/实体/B站up在油管的现状.md",
+    "商业案例/商业案例.md",
+    "交易/政策/内存上涨这么快的原因.md",
+    "法律/违规事件/虚假退货骗局.md",
+    "法律/违规事件/借酒施压敲诈.md",
+    "交易/政策/美国军工复合体是如何绑架美国的？.md",
     "法律/违规事件/中老年交友骗局.md",
     "法律/违规事件/机票退改签诈骗.md",
     "人情世故/职场/基层干警的真实情况 .md",
@@ -282,16 +292,6 @@
     "商业案例/金融/花呗上市前的关键故事：从 30 亿到 3000 亿的杠杆游戏与监管风暴.md",
     "商业案例/金融/舅妈让“我” AB 贷陷阱案例.md",
     "商业案例/金融/老陌直播笔记.md",
-    "商业案例/金融/老陌2026-1-6直播.md",
-    "商业案例/金融/老张王总抽屉协议骗局笔记.md",
-    "商业案例/金融/网贷负债者.md",
-    "商业案例/金融/网贷的小故事.md",
-    "商业案例/金融/深圳家庭资金盘案例笔记.md",
-    "商业案例/金融/游戏经济行为案例读书笔记.md",
-    "商业案例/金融/有钱人消费才能拉动消费.md",
-    "商业案例/金融/新人给银行刷KPI.md",
-    "商业案例/金融/援助非洲的钱是我们纳税人的钱吗.md",
-    "商业案例/金融/张雪峰商业布局与动机分析.md",
     "商业案例/金融",
     "商业案例/实体",
     "商业案例",
