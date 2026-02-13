@@ -54,8 +54,31 @@ else {
 # Check current branch
 Write-Host "Current branch: $(git branch --show-current)" -ForegroundColor Green
 
-# Push to inside branch
-Write-Host "Pushing to inside branch..." -ForegroundColor Green
-git push origin HEAD:inside --force
+# Push to inside branch with retry
+$maxRetries = 3
+$retryCount = 0
+$pushSuccess = $false
+
+while ($retryCount -lt $maxRetries -and -not $pushSuccess) {
+    $retryCount++
+    Write-Host "Pushing to inside branch (attempt $retryCount/$maxRetries)..." -ForegroundColor Green
+    
+    $output = git push origin HEAD:inside --force 2>&1
+    $exitCode = $LASTEXITCODE
+    
+    if ($exitCode -eq 0) {
+        $pushSuccess = $true
+        Write-Host "Push successful!" -ForegroundColor Green
+    }
+    else {
+        Write-Host "Push failed, retrying in 5 seconds..." -ForegroundColor Yellow
+        Start-Sleep -Seconds 5
+    }
+}
+
+if (-not $pushSuccess) {
+    Write-Host "Push failed after $maxRetries attempts. Please check your network connection." -ForegroundColor Red
+    Write-Host "Error output: $output" -ForegroundColor Red
+}
 
 Write-Host "Push completed!" -ForegroundColor Green
