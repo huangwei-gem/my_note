@@ -32,6 +32,9 @@ if (-not $gitExists) {
     Write-Host "Initializing new Git repository..." -ForegroundColor Yellow
     git init
     
+    # Create and switch to inside branch
+    git checkout -b inside
+    
     # Add remote
     git remote add origin https://github.com/huangwei-gem/my_note
 }
