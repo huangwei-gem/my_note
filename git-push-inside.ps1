@@ -69,6 +69,86 @@ function Invoke-GitCommand {
     }
 }
 
+function Invoke-GitPushWithProgress {
+    param(
+        [string]$Branch = "inside",
+        [int]$Attempt = 1
+    )
+    
+    Write-Log "Push attempt $Attempt - Starting upload..." -Level "INFO"
+    Write-Host ""
+    Write-Host "  Upload Progress:" -ForegroundColor Cyan
+    Write-Host "  ----------------" -ForegroundColor DarkGray
+    
+    $psi = New-Object System.Diagnostics.ProcessStartInfo
+    $psi.FileName = "git"
+    $psi.Arguments = "push origin HEAD:$Branch --force --progress"
+    $psi.UseShellExecute = $false
+    $psi.RedirectStandardOutput = $true
+    $psi.RedirectStandardError = $true
+    $psi.CreateNoWindow = $true
+    $psi.StandardOutputEncoding = [System.Text.Encoding]::UTF8
+    $psi.StandardErrorEncoding = [System.Text.Encoding]::UTF8
+    
+    $process = New-Object System.Diagnostics.Process
+    $process.StartInfo = $psi
+    
+    $outputBuilder = New-Object System.Text.StringBuilder
+    $errorBuilder = New-Object System.Text.StringBuilder
+    
+    $action = {
+        param($sender, $e)
+        if ($e.Data) {
+            $errorBuilder.AppendLine($e.Data) | Out-Null
+            $data = $e.Data
+            if ($data -match "Writing objects:") {
+                Write-Host "  $data" -ForegroundColor Green
+            }
+            elseif ($data -match "Counting objects:|Compressing objects:|Total") {
+                Write-Host "  $data" -ForegroundColor Yellow
+            }
+            elseif ($data -match "remote:|To https:") {
+                Write-Host "  $data" -ForegroundColor Cyan
+            }
+            elseif ($data -match "error:|fatal:") {
+                Write-Host "  $data" -ForegroundColor Red
+            }
+            else {
+                Write-Host "  $data" -ForegroundColor DarkGray
+            }
+        }
+    }
+    
+    $outputAction = {
+        param($sender, $e)
+        if ($e.Data) {
+            $outputBuilder.AppendLine($e.Data) | Out-Null
+            Write-Host "  $($e.Data)" -ForegroundColor DarkGray
+        }
+    }
+    
+    Register-ObjectEvent -InputObject $process -EventName ErrorDataReceived -Action $action | Out-Null
+    Register-ObjectEvent -InputObject $process -EventName OutputDataReceived -Action $outputAction | Out-Null
+    
+    $process.Start() | Out-Null
+    $process.BeginOutputReadLine()
+    $process.BeginErrorReadLine()
+    $process.WaitForExit()
+    
+    $exitCode = $process.ExitCode
+    $output = $outputBuilder.ToString()
+    $errors = $errorBuilder.ToString()
+    
+    Write-Host ""
+    
+    if ($exitCode -eq 0) {
+        return @{ Success = $true; Output = $output; ExitCode = 0 }
+    }
+    else {
+        return @{ Success = $false; Output = $errors; ExitCode = $exitCode }
+    }
+}
+
 Write-Log "Step 1: Checking network connectivity..." -Level "INFO"
 if (-not (Test-NetworkConnection)) {
     Write-Log "Warning: Network connectivity test failed. Proceeding anyway..." -Level "WARN"
@@ -190,16 +270,15 @@ if ($currentBranch -ne "inside") {
     Invoke-GitCommand -Command "checkout inside" -Description "Switch to inside branch"
 }
 
-Write-Log "Step 9: Pushing to remote..." -Level "INFO"
+Write-Log "Step 9: Pushing to remote (with progress)..." -Level "INFO"
 $maxRetries = 3
 $retryCount = 0
 $pushSuccess = $false
 
 while ($retryCount -lt $maxRetries -and -not $pushSuccess) {
     $retryCount++
-    Write-Log "Push attempt $retryCount of $maxRetries..." -Level "INFO"
     
-    $pushResult = Invoke-GitCommand -Command "push origin HEAD:inside --force" -Description "Push to inside branch"
+    $pushResult = Invoke-GitPushWithProgress -Branch "inside" -Attempt $retryCount
     
     if ($pushResult.Success) {
         $pushSuccess = $true
@@ -207,7 +286,18 @@ while ($retryCount -lt $maxRetries -and -not $pushSuccess) {
     }
     else {
         Write-Log "Push failed. Exit code: $($pushResult.ExitCode)" -Level "ERROR"
-        Write-Log "Error output: $($pushResult.Output)" -Level "ERROR"
+        
+        if ($pushResult.Output -match "Large files detected|file size limit|GH001") {
+            Write-Log "========================================" -Level "ERROR"
+            Write-Log "LARGE FILE DETECTED!" -Level "ERROR"
+            Write-Log "========================================" -Level "ERROR"
+            Write-Log "The push was rejected because of large files." -Level "WARN"
+            Write-Log "Please remove large files from git history using:" -Level "WARN"
+            Write-Log "  git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch \"PATH/TO/LARGE/FILE\"' --prune-empty --tag-name-filter cat -- --all" -Level "WARN"
+            Write-Log "Then run: git reflog expire --expire=now --all && git gc --prune=now --aggressive" -Level "WARN"
+            Write-Log "========================================" -Level "ERROR"
+            exit 1
+        }
         
         if ($retryCount -lt $maxRetries) {
             $waitTime = 5 * $retryCount
@@ -225,9 +315,8 @@ if (-not $pushSuccess) {
     Write-Log "  1. Network connectivity issues" -Level "WARN"
     Write-Log "  2. Authentication failed (check your credentials)" -Level "WARN"
     Write-Log "  3. Remote repository not accessible" -Level "WARN"
-    Write-Log "  4. Git LFS issues (if using large files)" -Level "WARN"
     Write-Log "" -Level "WARN"
-    Write-Log "Try running manually: git push origin HEAD:inside --force" -Level "WARN"
+    Write-Log "Try running manually: git push origin HEAD:inside --force --progress" -Level "WARN"
     Write-Log "========================================" -Level "ERROR"
     exit 1
 }
