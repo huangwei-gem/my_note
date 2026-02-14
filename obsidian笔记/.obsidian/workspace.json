@@ -11,10 +11,14 @@
             "id": "c0e8d8106b37b4d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "交易/政策/为什么我们只能用大政府发展经济？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "为什么我们只能用大政府发展经济？"
             }
           }
         ]
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "交易/政策/为什么我们只能用大政府发展经济？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "为什么我们只能用大政府发展经济？ 的反向链接列表"
             }
           },
           {
@@ -135,11 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "交易/政策/为什么我们只能用大政府发展经济？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "为什么我们只能用大政府发展经济？ 的出链列表"
             }
           },
           {
@@ -163,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "交易/政策/为什么我们只能用大政府发展经济？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "为什么我们只能用大政府发展经济？ 的大纲"
             }
           },
           {
@@ -258,6 +265,7 @@
   },
   "active": "c0e8d8106b37b4d7",
   "lastOpenFiles": [
+    "交易/政策/为什么我们只能用大政府发展经济？.md",
     "商业案例/实体/月租 2000 和房贷 2800 哪一个更加的划算？.md",
     "人情世故/职场/权力运作的本质.md",
     "商业案例/实体/网红雷军是如何塌房的？.md",
@@ -284,7 +292,6 @@
     "商业案例/金融/茅台产融结合案例笔记.md",
     "商业案例/金融/花呗上市前的关键故事：从 30 亿到 3000 亿的杠杆游戏与监管风暴.md",
     "商业案例/金融/舅妈让“我” AB 贷陷阱案例.md",
-    "商业案例/金融/老陌直播笔记.md",
     "商业案例/金融",
     "商业案例/实体",
     "商业案例",
