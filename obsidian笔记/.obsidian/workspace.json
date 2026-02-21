@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb9eeafc04a1f6f",
+        "id": "51d7db99f930e6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "54272baf735cf52a",
+            "id": "bb08d2ca9d6b463c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "60a8278f43a2e2e1",
+            "id": "06a8fc57f09f50b2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,11 +258,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "54272baf735cf52a",
+  "active": "bb08d2ca9d6b463c",
   "lastOpenFiles": [
+    "商业案例/实体/大刘自媒体深度实操指南.md",
+    "Tags/#装修定制",
+    "Tags/#合肥门窗",
+    "Tags/#超市创业",
+    "Tags/#美容团购",
+    "Tags/#抖音团购",
+    "Tags/#隔空喊话小杨哥",
+    "Tags/#宁波水果",
+    "Tags/#湖北汽车降价",
+    "Tags/#装修避坑",
+    "Tags/#同城美食",
     "商业案例/金融/蔡徐坤的资本博弈故事.md",
     "商业案例/金融/保险公司为什么屹立不倒.md",
-    "商业案例/实体/Untitled.md",
     "商业案例/金融/乐华娱乐背后的资本博弈全历程.md",
     "商业案例/实体/艺人经纪人的工作与生活.md",
     "商业案例/金融/商业航天爆火背后的故事.md",
@@ -286,19 +296,8 @@
     "商业案例/实体/恋陪是什么？年轻女性为何极易对其上瘾？.md",
     "商业案例/实体/AI以后的发展.md",
     "商业案例/金融/黄金投资与幕后行为笔记.md",
-    "商业案例/金融/黄金市场的乱象.md",
-    "商业案例/金融",
-    "商业案例/实体",
-    "商业案例",
-    "Tags/#dai",
-    "Tags/#巨额",
-    "Tags/#ju",
-    "Tags/#jue",
-    "人情世故/职场/未命名",
-    "未命名.base",
     "成长/Untitled.canvas",
     "法律/违规事件/Untitled.canvas",
-    "成长/未命名",
     "Excalidraw/sql语句的执行顺序.svg",
     "Excalidraw/sql语句的执行顺序.png",
     "img_data/812d04e788dc9dfd086cc1dbd1b223ff.png",
